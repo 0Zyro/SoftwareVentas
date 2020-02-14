@@ -1,0 +1,20 @@
+Requisitos software generico para registro de ventas
+
+El software debe permitir:
+ - Realizar ventas de una manera rapida e intuitiva
+ - registrar los productos vendidos en cada venta individualmente
+ - registrar precios, subtotales, totales, recargos, descuentos
+ - registrar fecha y hora de venta
+ - facturar electronicamente a traves de dgi
+ - consultar el historial de ventas
+ - filtrar de manera sencilla e intuitiva las busquedas (productos o historico)
+ - agregar, modificar y eliminar productos
+ - llevar un control del stock
+ - ver resumenes de ventas del mes o totales
+ - llevar control de saldo de los clientes con deuda
+ - ver productos comprados por cada cliente
+
+Expansion:
+ - el software maneja un sistema de usuarios con diferentes privilegios cada uno
+ - el software permite hacer cierres de caja, sean parciales o totales
+ - el software muestra graficos con los datos de ventas ganancias y demas datos pertinentes
